@@ -1,3 +1,4 @@
 /jypterbook/
 .idea
 .ipynb_checkpoints
+.vscode
